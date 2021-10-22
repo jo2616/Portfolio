@@ -1,7 +1,7 @@
 ### Hi there, I'm Joey  👋
 
 [![Website](https://img.shields.io/website?label=jo2616&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jo2616.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jo2616?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/jo2616/Portfolio)
+[![Twitter Follow](https://img.shields.io/badge/github/followers/:user?label=Follow/jo2616?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/jo2616/Portfolio)
 
 ## I'm a Researcher, Developer, and a Data Scientist!!
 
