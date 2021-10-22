@@ -1,11 +1,11 @@
 ### Hi there, I'm Joey  👋
 
 [![Website](https://img.shields.io/website?label=jo2616&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jo2616.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/jo2616/Portfolio)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jo2616?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/jo2616/Portfolio)
 
 ## I'm a Researcher, Developer, and a Data Scientist!!
 
-- 🔭 I just launched my first API: [Movies!][api]!
+- 🔭 I'm working to launch my first API: [Hypertension][api]!
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to take on more data science projects
 - 🥅 2022 Goals: Contribute more to healthcare projects
@@ -71,7 +71,7 @@
 
 
 [website]: https://jo2616.github.io/
-[api]: https://apilist.fun/api/omdb
+[api]: https://apilist.fun/api/
 [portfolio]: https://github.com/jo2616/Portfolio
 
 [youtube]: https://youtube.com/
