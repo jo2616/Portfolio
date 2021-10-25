@@ -45,6 +45,19 @@
 
 ---
 
+### 🚀 Latest Projects
+
+<!-- PROJECTS:START -->
+- [Yelp_Regression](https://github.com/jo2616/Portfolio/blob/main/yelp_regression_remote.ipynb)
+- [Twitter_Classification](https://www.yahoo.com/)
+- [Masculinity_Survey](https://www.yahoo.com/)
+- [OKCupid_](https://www.yahoo.com/)
+<!-- PROJECTS:END -->
+
+➡️ [more projects on the way...](https://youtube.com/)
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -59,7 +72,7 @@
 ### 📺 Latest Interesting News
 
 <!-- NEWS:START -->
-- [youtube!!](https://www.yahoo.com/)
+- One of my favorite movies of all time: [Interstellar, Hans Zimmer - Kalimba Cover](https://www.youtube.com/watch?v=Fbh8Mocj1Kk)
 - 
 <!-- NEWS:END -->
 
