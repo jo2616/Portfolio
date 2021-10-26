@@ -1,7 +1,7 @@
 ### Hi there, I'm Joey  👋
 
 [![Website](https://img.shields.io/website?label=jo2616&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jo2616.github.io/)
-[![Twitter Follow](https://img.shields.io/badge/github/followers/:user?label=Follow/jo2616?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/jo2616/Portfolio)
+[![Email](https://img.shields.io/badge/?label=Email&message=jo2616?style=for-the-badge)](https://github.com/jo2616/Portfolio)
 
 ## I'm a Researcher, Developer, and a Data Scientist!!
 
@@ -48,20 +48,20 @@
 ### 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
-- [Yelp_Regression](https://github.com/jo2616/Portfolio/blob/main/yelp_regression_remote.ipynb)
-- [Twitter_Classification](https://www.yahoo.com/)
-- [Masculinity_Survey](https://www.yahoo.com/)
-- [OKCupid_](https://www.yahoo.com/)
+- [Yelp_Regression](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb) - It helps to predict Yelp ratings for small and personal businesses!
+- [Twitter_Classification](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
+- [Masculinity_Survey](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
+- [OKCupid_](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
 <!-- PROJECTS:END -->
 
-➡️ [more projects on the way...](https://youtube.com/)
+➡️ more projects on the way...[Check out my first API](https://youtube.com/)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Dev](https://dev.to/)
+- [Soon to come](https://dev.to/)
 - 
 <!-- BLOG-POST-LIST:END -->
 
