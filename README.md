@@ -53,7 +53,7 @@
 
 <!-- PROJECTS:START -->
 - [Market Sentiment](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb) - It helps to predict Yelp ratings for small and personal businesses!
-- [GP and Bayesian Network Theory](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
+- [GP and Bayesian Network Theory](https://github.com/jo2616/Portfolio/tree/main/DDML_Bayesian)
 - [Diversity in Ensemble Learning](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
 - [CNNs, RNNs, and GANs](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
 <!-- PROJECTS:END -->
