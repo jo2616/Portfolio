@@ -48,10 +48,10 @@
 ### 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
-- [Yelp_Regression](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb) - It helps to predict Yelp ratings for small and personal businesses!
-- [Twitter_Classification](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
-- [Masculinity_Survey](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
-- [OKCupid_](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
+- [Market Sentiment](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb) - It helps to predict Yelp ratings for small and personal businesses!
+- [GP and Bayesian Network Theory](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
+- [Diversity in Ensemble Learning](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
+- [CNNs, RNNs, and GANs](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
 <!-- PROJECTS:END -->
 
 ➡️ more projects on the way...[Check out my first API](https://youtube.com/)
