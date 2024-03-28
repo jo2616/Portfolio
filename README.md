@@ -27,7 +27,7 @@
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />][portfolio]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][portfolio]
 [<img align="left" alt="ADF" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/10126-icon-service-Data-Factories.svg" />][portfolio]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
+[<img align="left" alt="Databricks" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/10787-icon-service-Azure-Databricks.svg" />][portfolio]
 [<img align="left" alt="JFrog" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/Jfrog_Green_RGB.png" />][portfolio]
 [<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />][portfolio]
 [<img align="left" alt="Docker" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/docker-mark-blue.png" />][portfolio]
