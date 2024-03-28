@@ -41,6 +41,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
 [<img align="left" alt="GitHub" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/github.svg" />][portfolio]
 [<img align="left" alt="Redhat" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/redhat-icon-svgrepo-com.svg" />][portfolio]
+[<img align="left" alt="Redhat" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" />][portfolio]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
 
 <br />
