@@ -28,7 +28,7 @@
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][portfolio]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][portfolio]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
+[<img align="left" alt="JFrog" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/Jfrog_Green_RGB.png" />][portfolio]
 [<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />][portfolio]
 [<img align="left" alt="Docker" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/docker-mark-blue.png" />][portfolio]
 [<img align="left" alt="Kubernetes" width="26px" src="https://github.com/kubernetes/community/blob/master/icons/png/control_plane_components/labeled/kubelet-128.png" />][portfolio]
