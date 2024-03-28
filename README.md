@@ -29,7 +29,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][portfolio]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][portfolio]
+[<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />][portfolio]
 [<img align="left" alt="Docker" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/docker-mark-blue.png" />][portfolio]
 [<img align="left" alt="Kubernetes" width="26px" src="https://github.com/kubernetes/community/blob/master/icons/png/control_plane_components/labeled/kubelet-128.png" />][portfolio]
 [<img align="left" alt="Snowflake" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />][portfolio]
