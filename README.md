@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=jo2616&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jo2616.github.io/)
 [![Email](https://img.shields.io/badge/?label=Email&message=jo2616?style=for-the-badge)](https://github.com/jo2616/Portfolio)
 
-## I'm a Researcher, Developer, and a Data Scientist!!
+## I'm a Researcher, Developer, and an ML Engineer!!
 
-- 🔭 I'm working to launch my first API: [Hypertension][api]!
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to take on more data science projects
-- 🥅 2022 Goals: Contribute more to healthcare projects
+- 🔭 I'm working to launch my second API: [Market Sentiment][api]!
+- 🌱 I’m currently learning the different strategies of derivative markets
+- 👯 I’m currently building relationships that could be fruitful
+- 🥅 2024 Goals: Contribute more to healthcare projects
 - ⚡ Fun fact: I love to play computer games
 
 ### Connect with me:
