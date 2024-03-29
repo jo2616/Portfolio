@@ -1,8 +1,8 @@
 ### Hi there, I'm Joey  👋
 
-![Static Badge](https://img.shields.io/badge/?style=social&logo=website&logoColor=blue&label=website&labelColor=red&color=green&link=https%3A%2F%2Fgithub.com%2Fjo2616%2FPortfolio%3Ftab%3Dreadme-ov-file)
+[![Website](https://img.shields.io/badge/website-Personal_Wiki-blue)](https://github.com/jo2616/Portfolio/wiki/Gaussian-Processes-for-Machine-Learning)
 
-[![Email](https://img.shields.io/badge/?label=Email&message=jo2616?style=for-the-badge)](https://github.com/jo2616/Portfolio)
+[![Email](https://img.shields.io/badge/email-Message-darkgreen)](https://mail.google.com/mail/?view=cm&to=jo2616@columbia.edu)
 
 ## I'm a Researcher, Developer, and an ML Engineer!!
 
@@ -14,10 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][portfolio]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Joseph | LinkedIn" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/LI-In-Bug.png" />](https://www.linkedin.com/in/joseph-oh-1676a11a7)
 
 
 <br />
