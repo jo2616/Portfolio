@@ -1,6 +1,6 @@
 ### Hi there, I'm Joey  👋
 
-[![Website](https://img.shields.io/badge/website-Personal_Wiki-blue)](https://github.com/jo2616/Portfolio/wiki/Gaussian-Processes-for-Machine-Learning)
+[![Website](https://img.shields.io/badge/website-Personal_Wiki-blue)](https://github.com/jo2616/Portfolio/wiki)
 
 [![Email](https://img.shields.io/badge/email-Message-darkgreen)](https://mail.google.com/mail/?view=cm&to=jo2616@columbia.edu)
 
