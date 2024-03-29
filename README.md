@@ -6,7 +6,7 @@
 
 ## I'm a Quantitative Researcher, Developer, and an ML Engineer!!
 
-- 🔭 I'm working to launch my second API: [Market Sentiment][api]!
+- 🔭 I'm working on my second API: [Market Sentiment][api]!
 - 🌱 I’m currently learning the different strategies of derivative markets
 - 👯 I’m currently building relationships that could be fruitful
 - 🥅 2024 Goals: Contribute more to healthcare projects
@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][api]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />][portfolio]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][portfolio]
 [<img align="left" alt="ADF" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/10126-icon-service-Data-Factories.svg" />][portfolio]
@@ -52,13 +52,14 @@
 ### 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
-- [Market Sentiment](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb) - It helps to predict Yelp ratings for small and personal businesses!
-- [GP and Bayesian Network Theory](https://github.com/jo2616/Portfolio/tree/main/DDML_Bayesian)
-- [Diversity in Ensemble Learning](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
-- [CNNs, RNNs, and GANs](https://github.com/jo2616/Portfolio/blob/main/yelp_regression.ipynb)
+- [Market Data](https://apilist.fun/) - It retrieves full historical market data by querying your stock ticker of the day!
+- [GP and Bayesian Regularized Regression](https://github.com/jo2616/Portfolio/wiki/Gaussian-Processes-for-Machine-Learning)
+- [Graph Theory and Bayesian Networks](https://github.com/jo2616/Portfolio/wiki/Graph-Theory-and-Bayesian-Networks)
+- [Diversity in Ensemble Learning/Deep Learning](https://github.com/jo2616/Portfolio/wiki/Ensembling-Techniques)
+- [CNNs, RNNs, and GANs](https://github.com/jo2616/Portfolio/wiki/GANs,-CNNs,-RNNs)
 <!-- PROJECTS:END -->
 
-➡️ more projects on the way...[Check out my first API](https://youtube.com/)
+➡️ more projects on the way...[Market Sentiment][api]
 
 ---
 
