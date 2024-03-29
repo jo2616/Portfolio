@@ -1,6 +1,6 @@
 ### Hi there, I'm Joey  👋
 
-[![Website](https://img.shields.io/website?message=Website)](https://jo2616.github.io/)
+[![Website](https://img.shields.io/website?message=Website)](https://github.com/jo2616/Portfolio?tab=readme-ov-file)
 [![Email](https://img.shields.io/badge/?label=Email&message=jo2616?style=for-the-badge)](https://github.com/jo2616/Portfolio)
 
 ## I'm a Researcher, Developer, and an ML Engineer!!
