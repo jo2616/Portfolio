@@ -36,13 +36,12 @@
 [<img align="left" alt="Power BI" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/03332-icon-service-Power-BI-Embedded.svg" />][portfolio]
 [<img align="left" alt="SQL" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/10130-icon-service-SQL-Database.svg" />][portfolio]
 [<img align="left" alt="SQL Server" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/sql-server.png" />][portfolio]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][portfolio]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][portfolio]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
-[<img align="left" alt="GitHub" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/github.svg" />][portfolio]
+[<img align="left" alt="Hadoop" width="120px" src="https://hbase.apache.org/images/hadoop-logo.jpg" />][portfolio]
+[<img align="left" alt="HBase" width="100px" src="https://hbase.apache.org/images/hbase_logo_with_orca.png" />][portfolio]
+[<img align="left" alt="Git" width="48px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" />][portfolio]
 [<img align="left" alt="Redhat" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/redhat-icon-svgrepo-com.svg" />][portfolio]
-[<img align="left" alt="Redhat" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" />][portfolio]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
+[<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" />][portfolio]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
 
 <br />
 <br />
