@@ -1,6 +1,6 @@
 ### Hi there, I'm Joey  👋
 
-[![Website]([https://img.shields.io/website?message=Website](https://img.shields.io/badge/:badgeContent?style=social&logo=website&logoColor=blue&label=website&labelColor=red&color=green&link=https%3A%2F%2Fgithub.com%2Fjo2616%2FPortfolio%3Ftab%3Dreadme-ov-file)]()
+[![Website]([https://img.shields.io/badge/:badgeContent?style=social&logo=website&logoColor=blue&label=website&labelColor=red&color=green&link=https%3A%2F%2Fgithub.com%2Fjo2616%2FPortfolio%3Ftab%3Dreadme-ov-file]()
 [![Email](https://img.shields.io/badge/?label=Email&message=jo2616?style=for-the-badge)](https://github.com/jo2616/Portfolio)
 
 ## I'm a Researcher, Developer, and an ML Engineer!!
