@@ -1,6 +1,6 @@
 ### Hi there, I'm Joey  👋
 
-[![Website](https://img.shields.io/website?label=jo2616&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jo2616.github.io/)
+[![Website](https://img.shields.io/website?label=Website&style=website-blue)](https://jo2616.github.io/)
 [![Email](https://img.shields.io/badge/?label=Email&message=jo2616?style=for-the-badge)](https://github.com/jo2616/Portfolio)
 
 ## I'm a Researcher, Developer, and an ML Engineer!!
