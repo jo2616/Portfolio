@@ -57,6 +57,7 @@
 - [Graph Theory and Bayesian Networks](https://github.com/jo2616/Portfolio/wiki/Graph-Theory-and-Bayesian-Networks)
 - [Diversity in Ensemble Learning/Deep Learning](https://github.com/jo2616/Portfolio/wiki/Ensembling-Techniques)
 - [CNNs, RNNs, and GANs](https://github.com/jo2616/Portfolio/wiki/GANs,-CNNs,-RNNs)
+- [Identifying & Classifying Genomic Data using ML](https://github.com/jo2616/Portfolio/wiki/Identification-and-Classification-of-Genomic-Data-using-ML#table-of-contents)
 <!-- PROJECTS:END -->
 
 ➡️ more projects on the way...[Market Sentiment][api]
