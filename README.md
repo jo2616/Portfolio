@@ -55,7 +55,7 @@
 - [Market Data](https://apilist.fun/) - It retrieves full historical market data by querying your stock ticker of the day!
 - [GP and Bayesian Regularized Regression](https://github.com/jo2616/Portfolio/wiki/Gaussian-Processes-for-Machine-Learning)
 - [Graph Theory and Bayesian Networks](https://github.com/jo2616/Portfolio/wiki/Graph-Theory-and-Bayesian-Networks)
-- [Diversity in Ensemble Learning/Deep Learning](https://github.com/jo2616/Portfolio/wiki/Ensembling-Techniques)
+- [Ensemble Learning/Deep Learning](https://github.com/jo2616/Portfolio/wiki/Ensembling-Techniques)
 - [CNNs, RNNs, and GANs](https://github.com/jo2616/Portfolio/wiki/GANs,-CNNs,-RNNs)
 - [Identifying & Classifying Genomic Data using ML](https://github.com/jo2616/Portfolio/wiki/Identification-and-Classification-of-Genomic-Data-using-ML#table-of-contents)
 <!-- PROJECTS:END -->
@@ -78,11 +78,10 @@
 ### 📺 Latest Interesting News
 
 <!-- NEWS:START -->
-- One of my favorite movies of all time: [Interstellar, Hans Zimmer - Kalimba Cover](https://www.youtube.com/watch?v=Fbh8Mocj1Kk)
-- 
+- ICML 2024 is held in Vienna, Austria this year! [ICML 2024](https://icml.cc/)
 <!-- NEWS:END -->
 
-➡️ [more videos...](https://youtube.com/)
+➡️ [If you've missed last years conference, here are the videos...](https://icml.cc/virtual/2023/index.html)
 
 ---
 
