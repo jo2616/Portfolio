@@ -68,7 +68,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Soon to come](https://github.com/jo2616/Portfolio/wiki/Gaussian-Processes-for-Machine-Learning)
-- 
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jo2616.github.io/)
