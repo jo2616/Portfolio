@@ -79,7 +79,7 @@
 
 <!-- NEWS:START -->
 - ICML 2024 is held in Vienna, Austria this year! [ICML 2024](https://icml.cc/)
-- ICLR 2024 also held in Vienna. Countdown to the Expo: <iframe src="https://github.com/jo2616/Portfolio/blob/main/dependencies/countdown_timer.html" width="100%" height="300px"></iframe>
+- ICLR 2024 also held in Vienna. Registration Cancellation Deadline: Apr 15 2024 12:00 AM CEST!
 
 <!-- NEWS:END -->
 
