@@ -45,8 +45,6 @@
 <br>
 <br>
 [<img align="left" alt="Hadoop" width="120px" src="https://hbase.apache.org/images/hadoop-logo.jpg" />][portfolio]
-[<img align="left" alt="SQL Server" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/sql-server.png" />][portfolio]
-
 <br />
 <br />
 
