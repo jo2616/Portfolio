@@ -28,6 +28,8 @@
 [<img align="left" alt="Databricks" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/10787-icon-service-Azure-Databricks.svg" />][portfolio]
 [<img align="left" alt="JFrog" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/Jfrog_Green_RGB.png" />][portfolio]
 [<img align="left" alt="Jenkins" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />][portfolio]
+<br>
+<br>
 [<img align="left" alt="Docker" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/docker-mark-blue.png" />][portfolio]
 [<img align="left" alt="Kubernetes" width="32px" src="https://github.com/kubernetes/community/blob/master/icons/png/control_plane_components/labeled/kubelet-128.png" />][portfolio]
 [<img align="left" alt="Snowflake" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />][portfolio]
