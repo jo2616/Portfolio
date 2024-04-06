@@ -31,11 +31,11 @@
 [<img align="left" alt="Docker" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/docker-mark-blue.png" />][portfolio]
 [<img align="left" alt="Kubernetes" width="32px" src="https://github.com/kubernetes/community/blob/master/icons/png/control_plane_components/labeled/kubelet-128.png" />][portfolio]
 [<img align="left" alt="Snowflake" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />][portfolio]
-<br />
-<br />
 [<img align="left" alt="Power BI" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/03332-icon-service-Power-BI-Embedded.svg" />][portfolio]
 [<img align="left" alt="SQL" width="26px" src="https://github.com/jo2616/Portfolio/blob/main/icons/10130-icon-service-SQL-Database.svg" />][portfolio]
 [<img align="left" alt="SQL Server" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/sql-server.png" />][portfolio]
+<br />
+<br />
 [<img align="left" alt="Hadoop" width="120px" src="https://hbase.apache.org/images/hadoop-logo.jpg" />][portfolio]
 [<img align="left" alt="HBase" width="100px" src="https://hbase.apache.org/images/hbase_logo_with_orca.png" />][portfolio]
 [<img align="left" alt="Git" width="48px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" />][portfolio]
