@@ -54,12 +54,12 @@
 ### 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
-- [Market Data](https://apilist.fun/) - It retrieves full historical market data by querying your stock ticker of the day!
 - [GP and Bayesian Regularized Regression](https://github.com/jo2616/Portfolio/wiki/Gaussian-Processes-for-Machine-Learning)
 - [Graph Theory and Bayesian Networks](https://github.com/jo2616/Portfolio/wiki/Graph-Theory-and-Bayesian-Networks)
 - [Ensemble Learning/Deep Learning](https://github.com/jo2616/Portfolio/wiki/Ensembling-Techniques)
 - [CNNs, RNNs, and GANs](https://github.com/jo2616/Portfolio/wiki/GANs,-CNNs,-RNNs)
 - [Identifying & Classifying Genomic Data using ML](https://github.com/jo2616/Portfolio/wiki/Identification-and-Classification-of-Genomic-Data-using-ML#table-of-contents)
+- [Market Data](https://apilist.fun/) - It retrieves full historical market data by querying your stock ticker of the day!
 <!-- PROJECTS:END -->
 
 ➡️ more projects on the way...[Market Sentiment][api]
