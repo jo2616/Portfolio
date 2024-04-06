@@ -44,7 +44,6 @@
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
 <br>
 <br>
-<br>
 [<img align="left" alt="Hadoop" width="120px" src="https://hbase.apache.org/images/hadoop-logo.jpg" />][portfolio]
 [<img align="left" alt="SQL Server" width="32px" src="https://github.com/jo2616/Portfolio/blob/main/icons/sql-server.png" />][portfolio]
 
