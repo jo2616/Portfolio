@@ -54,6 +54,7 @@
 ### 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
+- [Double/debiased ML](https://github.com/jo2616/Portfolio/wiki/Double-Debiased-ML)
 - [GP and Bayesian Regularized Regression](https://github.com/jo2616/Portfolio/wiki/Gaussian-Processes-for-Machine-Learning)
 - [Graph Theory and Bayesian Networks](https://github.com/jo2616/Portfolio/wiki/Graph-Theory-and-Bayesian-Networks)
 - [Ensemble Learning/Deep Learning](https://github.com/jo2616/Portfolio/wiki/Ensembling-Techniques)
