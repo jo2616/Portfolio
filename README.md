@@ -6,7 +6,7 @@
 
 ## I'm a Quantitative Researcher, Developer, and an ML Engineer!!
 
-- 🔭 I'm working on my second API: [Market Sentiment][api]!
+- 🔭 I'm working on an implementation of DML: [Double/debiased ML](https://github.com/jo2616/Portfolio/wiki/Double-Debiased-ML)!
 - 🌱 I’m currently learning the different strategies of derivative markets
 - 👯 I’m currently building relationships that could be fruitful
 - 🥅 2024 Goals: Contribute more to healthcare projects
@@ -60,6 +60,7 @@
 - [Ensemble Learning/Deep Learning](https://github.com/jo2616/Portfolio/wiki/Ensembling-Techniques)
 - [CNNs, RNNs, and GANs](https://github.com/jo2616/Portfolio/wiki/GANs,-CNNs,-RNNs)
 - [Identifying & Classifying Genomic Data using ML](https://github.com/jo2616/Portfolio/wiki/Identification-and-Classification-of-Genomic-Data-using-ML#table-of-contents)
+- [Market Sentiment][api]
 - [Market Data](https://apilist.fun/) - It retrieves full historical market data by querying your stock ticker of the day!
 <!-- PROJECTS:END -->
 
