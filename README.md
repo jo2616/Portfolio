@@ -71,7 +71,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Soon to come](https://github.com/jo2616/Portfolio/wiki)
+- [Soon to come](https://jo2616.github.io/)
 
 <!-- BLOG-POST-LIST:END -->
 
