@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/email-Message-darkgreen)](https://mail.google.com/mail/?view=cm&to=jo2616@columbia.edu)
 
-## I'm a Quantitative Researcher, Developer, and an ML Engineer!!
+## I'm a Researcher, Developer, and an AI/ML Engineer!!
 
 - 🔭 I'm working on an implementation of DML: [Double/debiased ML](https://github.com/jo2616/Portfolio/wiki/Double-Debiased-ML)!
 - 🌱 I’m currently learning the different strategies of derivative markets
